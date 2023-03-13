@@ -57,13 +57,6 @@ ___
 
 ## *Запуск проекта в dev-режиме*
 
-+ *Клонируем репозиторий*
-```
-git clone git@github.com:Owlachno/api_yamdb.git
-```
-+ *Переходим в репозиторий*
-```
-cd api_yamdb
 ```
 + *Создаём виртуальное окружение*
 ```
@@ -101,6 +94,3 @@ ___
 python manage.py importcsv
 ```
 ___
-***Вид на объем проделанной работы***
-
-![красивая фотография](https://million-wallpapers.ru/wallpapers/6/7/492940876511675/zhivopisnyj-pejzazh-krasivaya-priroda.jpg)
