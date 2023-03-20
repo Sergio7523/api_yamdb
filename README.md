@@ -12,7 +12,7 @@ ___
 
 ### *Технологии*
 - Python 3.7
-- Django 2.2.19
+- Django==3.2
 - DjangoRestFramework 3.12.4
 - SQLite
 - Pytest
